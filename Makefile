@@ -1,5 +1,5 @@
 export PWD = $(dir $(abspath $(lastword $(MAKEFILE_LIST))))
-IDF_PATH := $(PWD)esp-idf
+IDF_PATH := $(PWD)/../esp-idf
 
 PROJECT_NAME := esp32-hello-world
 
