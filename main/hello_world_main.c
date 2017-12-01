@@ -15,7 +15,7 @@
 
 void app_main()
 {
-    printf("Hello world! Eclipse CDT 9.4\n");
+    printf("Hello world! OMG! Almost there...\n");
 
     /* Print chip information */
     esp_chip_info_t chip_info;
